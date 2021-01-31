@@ -19,14 +19,26 @@ export const robots = [
     },
     {
       id: 4,
-      name: 'Leanne Graham',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      name: 'Kobe Bryant',
+      username: 'Kobe',
+      email: 'gg@april.biz'
     },
     {
       id: 5,
-      name: 'Leanne Graham',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      name: 'Evan Tunk',
+      username: 'SP',
+      email: 'abc@gg.biz'
+    },
+    {
+      id: 6,
+      name: 'Goham Cook',
+      username: 'boss',
+      email: 'service@play.biz'
+    },
+    {
+      id: 7,
+      name: 'Jone Krvin',
+      username: 'darkileer',
+      email: 'blood@love.biz'
     },
 ]
